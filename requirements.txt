@@ -1,0 +1,9 @@
+sqlalchemy
+bson
+jinja2
+pymongo==3.0.3
+bottle
+pefile
+django
+chardet
+protobuf
