@@ -1,3 +1,27 @@
+Versión modificada de CuckooDroid para MSEG-18
+=================================================
+Modificaciones por William Rodriguez
+    
+Instalación
+-----------
+
+    git clone https://github.com/wrodriguezc/cuckoo-droid-1.0.git
+    cd cuckoo-droid-1.0
+    pip install -r requirements.txt 
+    
+Ejecución
+---------
+
+Para ejecutar CuckooDroid
+
+    cd cuckoo-droid-1.0
+    ./cuckoo.sh
+
+Para ejecutar la interfaz web, sin cerrar la terminal de CuckooDroid
+
+    cd cuckoo-droid-1.0
+    ./cuckoo-web.sh
+
 ![Image of cuckoo-droid](https://github.com/idanr1986/cuckoo-droid/blob/master/documentation/book/src/_images/logo/cuckoo.png?raw=true)
 
 [![Black Hat Arsenal](https://www.toolswatch.org/badges/arsenal/2015.svg)]( https://www.blackhat.com/us-15/arsenal.html)
@@ -34,7 +58,7 @@ Powered by:
 - Androguard -> https://code.google.com/p/androguard/
 - Google Play Unofficial Python API -> https://github.com/egirault/googleplay-api
 
-Credit 
+Credit
 ======
 - botherder for linux_analyzer_dev -> https://github.com/cuckoobox/cuckoo/tree/linux_analyzer_dev
 
