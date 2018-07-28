@@ -8,7 +8,25 @@ Instalación
     git clone https://github.com/wrodriguezc/cuckoo-droid-1.0.git
     cd cuckoo-droid-1.0
     pip install -r requirements.txt 
-    
+
+Configuración adicional
+-----------------------
+Se debe modificar el archivo de configuración avd.conf. La ruta /Android/Sdk debe ser modificada de acuerdo a la ubicación del SDK de Android en su sistema.
+
+    [avd]
+    #Path to the local installation of the android emulator
+    emulator_path = /home/{nombredeusuario}/Android/Sdk/emulator/emulator
+
+    #Path to the local installation of the adb - android debug bridge utility.
+    adb_path = /home/{nombreusuario}/Android/Sdk/platform-tools/adb
+
+    #Path to the emulator machine files is located
+    avd_path =  /home/{nombreusuario}/.android/avd
+
+  
+
+
+
 Ejecución
 ---------
 
