@@ -49,10 +49,7 @@ pipreqs==0.4.9
 protobuf==3.6.0
 pycparser==2.18
 pycrypto==2.6.1
-pydeep==0.4
 pyelftools==0.24
-pygobject==3.20.0
-pyguacamole==0.6
 pymisp==2.4.54
 pymongo==3.0.3
 pyOpenSSL==18.0.0
@@ -73,7 +70,6 @@ typing==3.6.4
 unicorn==1.0.1
 urllib3==1.23
 virtualenv==15.0.1
-volatility==2.5
 wakeonlan==0.2.2
 WeasyPrint==0.42.3
 webencodings==0.5.1
