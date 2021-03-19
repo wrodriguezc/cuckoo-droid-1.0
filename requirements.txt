@@ -32,7 +32,7 @@ HTTPReplay==0.2.3
 idna==2.7
 ipaddress==1.0.22
 itsdangerous==0.24
-Jinja2==2.9.6
+Jinja2==2.11.3
 jsbeautifier==1.6.2
 jsonschema==2.6.0
 M2Crypto==0.24.0
