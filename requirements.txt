@@ -44,7 +44,7 @@ pdfrw==0.4
 peepdf==0.4.2
 pefile==2017.11.5
 pefile2==1.2.11
-Pillow==3.2.0
+Pillow==9.0.0
 pipreqs==0.4.9
 protobuf==3.6.0
 pycparser==2.18
