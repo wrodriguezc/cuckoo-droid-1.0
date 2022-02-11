@@ -46,7 +46,7 @@ pefile==2017.11.5
 pefile2==1.2.11
 Pillow==3.2.0
 pipreqs==0.4.9
-protobuf==3.6.0
+protobuf==3.15.0
 pycparser==2.18
 pycrypto==2.6.1
 pyelftools==0.24
