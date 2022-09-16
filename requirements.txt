@@ -36,7 +36,7 @@ Jinja2==2.9.6
 jsbeautifier==1.6.2
 jsonschema==2.6.0
 M2Crypto==0.24.0
-Mako==1.0.7
+Mako==1.2.2
 MarkupSafe==1.0
 olefile==0.43
 oletools==0.51
